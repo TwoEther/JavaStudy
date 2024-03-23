@@ -75,3 +75,5 @@ public registerCource(Applicant <? super Worker> applicant){}
 // 모든 타입 파라미터 가능
 public registerCource(Applicant <?> applicant){}
 ```
+
+
